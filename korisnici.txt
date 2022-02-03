@@ -1,0 +1,7 @@
+kisa|kisa123|Kristina|Milanovic|064537800|kisa123@gmail.com|True|administrator
+vlada|vlada123|Vladimir|Djurdjevic|0654049125|vlada123@gmail.com|True|korisnik|
+pera|pera123|Petar|Petrovic|0642763864|pera123@gmail.com|True|korisnik|
+laza|laza123|Lazar|Jevtic|0627591762|laza123@gmail.com|True|korisnik|
+mici|mici123|Milica|Vrankovic|0650023426|mici123@gmail.com|True|recepcioner|101010
+zika|zika123|Zivorad|Zivanovic|0623123800|zika123|True|recepcioner|202020
+jokica|jokica123|Jovana|Jovanovic|065000876|jokica123@gmail.com|True|recepcioner|303030

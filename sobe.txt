@@ -1,0 +1,21 @@
+101101|101|2|jedna soba|DA|NE|25|True
+102102|102|3|apartman|NE|DA|40|True
+103103|103|1|jedna soba|NE|NE|15|True
+104104|104|4|apartman|DA|DA|60|True
+105105|105|2|jedna soba|DA|NE|22|True
+106106|106|5|apartman|DA|NE|56|True
+107107|107|1|jedna soba|DA|NE|38|True
+108108|108|2|jedna soba|DA|NE|22|True
+109109|109|4|apartman|DA|DA|80|True
+110110|110|6|apartman|DA|DA|74|True
+111111|111|2|jedna soba|NE|NE|19|True
+112112|112|1|jedna soba|DA|NE|31|True
+113113|113|3|jedna soba|NE|DA|30|True
+114114|114|2|apartman|DA|DA|42|True
+115115|115|1|jedna soba|DA|NE|10|True
+123123|116|4|apartman|DA|NE|12|False
+123124|117|2|jedna soba|NE|NE|26|False
+123125|118|5|apartman|DA|NE|42|False
+123126|119|2|jedna soba|DA|NE|18|True
+123127|120|1|jedna soba|DA|NE|32|True
+123128|121|3|jedna soba|NE|DA|40|True

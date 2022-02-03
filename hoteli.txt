@@ -1,0 +1,7 @@
+101010|Moskva|Strazilovska|101,102,103|DA|DA|4.9|True
+202020|Pupin|Hajducka|104,105,106|DA|NE|2.4|True
+303030|Rtanj|Izvidjacka|107,108,109|DA|NE|3.6|True
+404040|Mona|Uspenska|110,110,112|NE|DA|4.2|True
+505050|Narcis|Kosmajska|113,114,115|DA|DA|3.8|True
+606060|Grand|Jasenicka|116,117,118|DA|DA|4.8|True
+707070|Crni Vrh|Sremska|119,120,121|NE|NE|1.9|True
